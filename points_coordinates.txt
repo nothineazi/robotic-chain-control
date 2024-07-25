@@ -1,0 +1,12 @@
+observe_point: x = 0.1367, y = 0.0102, z = 0.3479
+roll = 2.962, pitch = 1.221, yaw = 2.995
+reload_point: x = -0.0009, y = -0.3347, z = 0.2545
+roll = 3.030, pitch = 1.213, yaw = -3.069
+safe_pickpoint: x = 0.1826, y = -0.3097, z = 0.1820
+roll = -3.093, pitch = 1.190, yaw = -2.971
+pickpoint: x = 0.1762, y = -0.3189, z = 0.1653
+roll = 3.058, pitch = 1.194, yaw = -3.076
+conveyor_starting_point: x = 0.2140, y = -0.2291, z = 0.1623
+roll = 3.075, pitch = 1.509, yaw = 1.709
+build_point: x = 0.0444, y = 0.2706, z = 0.1402
+roll = -3.083, pitch = 1.405, yaw = -1.384
