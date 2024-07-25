@@ -1,5 +1,6 @@
-
 # CHAIKMAT 4.0 Experimental Robotic Chain Control
+
+Control Application for a Robotic Production Chain with Enhanced Interoperability Using Service Composition with Asset Administration Shell (AAS)
 
 # Instructions for Running the Robotic Chain and Using Interfaces
 
